@@ -30,7 +30,7 @@ a:active {
   left: 0;
 }
 
-p, h1 {
+p, h1, h4 {
     text-align: center;
     font-family: 'Bitter', serif;
 }
@@ -48,6 +48,7 @@ div.cover {
   width: 200%; 
   height: 200%;
 }
+
 img.cover {
   position: absolute; 
   top: 1; 
